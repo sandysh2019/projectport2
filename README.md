@@ -95,3 +95,4 @@ Use the same steps as the free deployment with these adjustments:
    - Enforce strong `JWT_SECRET` rotation policy and keep it in Vercel’s environment variables only.
    - Use custom domains and HTTPS (Vercel handles TLS).
    - Regularly back up MongoDB Atlas and enforce IP allowlists if desired.
+"# proport2" 
